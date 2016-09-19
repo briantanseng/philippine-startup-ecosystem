@@ -25,6 +25,7 @@ This list is inspired by Founter Institute's [Startup Ecosystem Canvas] (http://
 - Validate
  * Team Formation
  * Build First Product
+
 ## Launch Stage
 
 ## Growth Stage
